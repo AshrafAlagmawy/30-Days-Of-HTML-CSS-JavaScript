@@ -1,0 +1,162 @@
+@import url('https://fonts.googleapis.com/css?family=Lato&display=swap');
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+html {
+  /* 1rem = 10px */
+  font-size: 62.5%;
+}
+
+body {
+  font-family: 'Lato', sans-serif;
+  overflow-x: hidden;
+  background-color: #333;
+  color: #222;
+}
+
+.container {
+  background-color: #fafafa;
+  transform-origin: top left;
+  transition: transform 0.5s linear;
+  width: 100vw;
+  min-height: 100vh;
+  padding: 5rem;
+}
+
+.container.show-nav {
+  transform: rotate(-20deg);
+}
+
+.circle-container {
+  position: fixed;
+  top: -10rem;
+  left: -10rem;
+}
+
+.circle {
+  background-color: #ff7979;
+  height: 20rem;
+  width: 20rem;
+  border-radius: 50%;
+  position: relative;
+  transition: transform 0.5s linear;
+}
+
+.container.show-nav .circle {
+  transform: rotate(-70deg);
+}
+
+.circle button {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  height: 10rem;
+  border: 0;
+  font-size: 2.6rem;
+  background: transparent;
+  color: #fff;
+  cursor: pointer;
+}
+
+.circle button:focus {
+  outline: none;
+}
+
+.circle button#open {
+  left: 60%;
+}
+
+.circle button#close {
+  top: 60%;
+  transform: rotate(90deg);
+  transform-origin: top left;
+}
+
+.content img {
+  max-width: 100%;
+  margin-bottom: 1.4rem;
+}
+
+.content {
+  max-width: 100rem;
+  margin: 5rem auto;
+}
+
+.content h1 {
+  font-size: 2.4rem;
+  margin-bottom: 1rem;
+}
+
+.content h3 {
+  font-size: 1.8rem;
+  margin-bottom: 1rem;
+}
+
+.content small {
+  color: #555;
+  font-size: 1.4rem;
+  font-style: italic;
+  margin-bottom: 1rem;
+}
+
+.content p {
+  color: #333;
+  font-size: 1.6rem;
+  line-height: 1.5;
+  margin-bottom: 1.4rem;
+}
+
+/* Navigation */
+
+nav {
+  position: fixed;
+  left: 0;
+  bottom: 4rem;
+  z-index: 100;
+}
+
+nav ul {
+  list-style: none;
+  padding-left: 3rem;
+}
+
+nav ul li {
+  text-transform: uppercase;
+  color: #fff;
+  font-size: 1.6rem;
+  margin-bottom: 1.5rem;
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+  transform: translateX(-100%);
+  transition: transform 0.4s ease-in;
+}
+
+nav ul li + li {
+  margin-left: 1.5rem;
+  transform: translateX(-150%);
+}
+
+nav ul li + li + li {
+  margin-left: 3rem;
+  transform: translateX(-200%);
+}
+
+.container.show-nav + nav li {
+  transform: translateX(0);
+  transition-delay: 0.3s;
+}
+
+nav ul li:last-child {
+  margin-bottom: 0;
+}
+
+nav ul li a:link,
+nav ul li a:visited {
+  text-decoration: none;
+  color: #fff;
+}
