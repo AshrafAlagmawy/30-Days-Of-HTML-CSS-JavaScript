@@ -10,3 +10,4 @@
 | Day 03  |       [Rotation Navigation](https://github.com/ashrafemad097/30-Days-Of-HTML-CSS-JavaScript/tree/main/Day%2003%20-%20Rotating%20Navigation)       | [Live Demo](https://rotation-navigation.netlify.app/)  |
 | Day 04  |       [Hidden Search Widget](https://github.com/ashrafemad097/30-Days-Of-HTML-CSS-JavaScript/tree/main/Day%2004%20-%20Hidden%20Search%20Widget)       | [Live Demo](https://search-hidden-widget.netlify.app/)  |
 | Day 05  |       [Blurring Loading](https://github.com/ashrafemad097/30-Days-Of-HTML-CSS-JavaScript/tree/main/Day%2005%20-%20Blurry%20Loading)       | [Live Demo](https://blurr-loading.netlify.app/)  |
+| Day 06  |       [Scroll Animation](https://github.com/ashrafemad097/30-Days-Of-HTML-CSS-JavaScript/tree/main/Day%2006%20-%20Scroll%20Animation)       | [Live Demo](https://scroll-aniimation.netlify.app/)  |
