@@ -14,3 +14,4 @@
 | Day 07  |       [Split Landing Page](https://github.com/ashrafemad097/30-Days-Of-HTML-CSS-JavaScript/tree/main/Day%2007%20-%20Split%20Landing%20Page)       | [Live Demo](https://split-landing-pagee.netlify.app/)  |
 | Day 08  |       [Form Wave Animation](https://github.com/ashrafemad097/30-Days-Of-HTML-CSS-JavaScript/tree/main/Day%2008%20-%20Form%20Wave%20Animation)       | [Live Demo](https://form-wave-aniimation.netlify.app/)  |
 | Day 09  |       [Sounds Board](https://github.com/ashrafemad097/30-Days-Of-HTML-CSS-JavaScript/tree/main/Day%2009%20-%20Sound%20Board)       | [Live Demo](https://sound-b0ard.netlify.app/)  |
+| Day 10  |       [Generate Jokes](https://github.com/ashrafemad097/30-Days-Of-HTML-CSS-JavaScript/tree/main/Day%2010%20-%20Dad%20Jokes)       | [Live Demo](https://generate-dad-joke.netlify.app/)  |
