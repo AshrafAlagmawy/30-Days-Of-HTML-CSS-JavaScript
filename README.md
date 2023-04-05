@@ -16,3 +16,4 @@
 | Day 09  |       [Sounds Board](https://github.com/ashrafemad097/30-Days-Of-HTML-CSS-JavaScript/tree/main/Day%2009%20-%20Sound%20Board)       | [Live Demo](https://sound-b0ard.netlify.app/)  |
 | Day 10  |       [Generate Jokes](https://github.com/ashrafemad097/30-Days-Of-HTML-CSS-JavaScript/tree/main/Day%2010%20-%20Dad%20Jokes)       | [Live Demo](https://generate-dad-joke.netlify.app/)  |
 | Day 11  |       [Event Keycode](https://github.com/ashrafemad097/30-Days-Of-HTML-CSS-JavaScript/tree/main/Day%2011%20-%20Event%20KeyCodes)       | [Live Demo](https://event-keycodee.netlify.app/)  |
+| Day 12  |       [FAQ](https://github.com/ashrafemad097/30-Days-Of-HTML-CSS-JavaScript/tree/main/Day%2012%20-%20FAQ%20Collapse)       | [Live Demo](https://faqq-collapse.netlify.app/)  |
