@@ -17,3 +17,4 @@
 | Day 11  |       [Event Keycode](https://github.com/ashrafemad097/30-Days-Of-HTML-CSS-JavaScript/tree/main/Day%2011%20-%20Event%20KeyCodes)       | [Live Demo](https://event-keycodee.netlify.app/)  |
 | Day 12  |       [FAQ](https://github.com/ashrafemad097/30-Days-Of-HTML-CSS-JavaScript/tree/main/Day%2012%20-%20FAQ%20Collapse)       | [Live Demo](https://faqq-collapse.netlify.app/)  |
 | Day 13  |       [Random Choice Picker](https://github.com/ashrafemad097/30-Days-Of-HTML-CSS-JavaScript/tree/main/Day%2013%20-%20Random%20Choice%20Picker)       | [Live Demo](https://random-choicee-picker.netlify.app/)  |
+| Day 14  |       [Animated Navigation](https://github.com/ashrafemad097/30-Days-Of-HTML-CSS-JavaScript/tree/main/Day%2014%20-%20Animated%20Navigation)       | [Live Demo](https://animateed-navigation.netlify.app/)  |
