@@ -21,3 +21,4 @@
 | Day 15  |       [Incremented Counter](https://github.com/ashrafemad097/30-Days-Of-HTML-CSS-JavaScript/tree/main/Day%2015%20-%20IncrementingCounter)       | [Live Demo](https://incremented-counter.netlify.app/)  |
 | Day 16  |       [Drink Water](https://github.com/ashrafemad097/30-Days-Of-HTML-CSS-JavaScript/tree/main/Day%2016%20-%20Drink%20Water)       | [Live Demo](https://drink-watter.netlify.app/)  |
 | Day 17  |       [Movie App](https://github.com/ashrafemad097/30-Days-Of-HTML-CSS-JavaScript/tree/main/Day%2017%20-%20Movie%20App)       | [Live Demo](https://moviiee-app.netlify.app/)  |
+| Day 18  |       [Background Slider](https://github.com/ashrafemad097/30-Days-Of-HTML-CSS-JavaScript/tree/main/Day%2018%20-%20Background%20Slider)       | [Live Demo](https://background-sliider.netlify.app/)  |
