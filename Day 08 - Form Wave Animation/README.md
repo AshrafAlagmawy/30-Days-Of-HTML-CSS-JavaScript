@@ -1,3 +1,3 @@
- ## Form Wave Animation using HTML & CSS & JS
+## Form Wave Animation using HTML & CSS & JS
 
 ### [Live dimo](https://form-wave-aniimation.netlify.app/)
