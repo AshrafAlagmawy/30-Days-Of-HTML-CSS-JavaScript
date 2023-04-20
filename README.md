@@ -29,3 +29,4 @@
 | Day 23  |       [Kinetic Loader](https://github.com/ashrafemad097/30-Days-Of-HTML-CSS-JavaScript/tree/main/Day%2023%20-%20Kinetic%20CSS%20Loader)       | [Live Demo](https://kinetic-looader.netlify.app/)  |
 | Day 24  |       [Content Placeholder](https://github.com/ashrafemad097/30-Days-Of-HTML-CSS-JavaScript/tree/main/Day%2024%20-%20%20ContentPlaceholder)       | [Live Demo](https://content-placeholdeer.netlify.app/)  |
 | Day 25  |       [Sticky Navigation](https://github.com/ashrafemad097/30-Days-Of-HTML-CSS-JavaScript/tree/main/Day%2025%20-%20Sticky%20Navbar)       | [Live Demo](https://stiicky-navigation.netlify.app/)  |
+| Day 26  |       [Vertical Slidebar](https://github.com/ashrafemad097/30-Days-Of-HTML-CSS-JavaScript/tree/main/Day%2026%20-%20Double%20Vertical%20Slider)       | [Live Demo](https://vertical-slidebasr.netlify.app/)  |
