@@ -32,3 +32,4 @@
 | Day 26  |       [Vertical Slidebar](https://github.com/ashrafemad097/30-Days-Of-HTML-CSS-JavaScript/tree/main/Day%2026%20-%20Double%20Vertical%20Slider)       | [Live Demo](https://vertical-slidebasr.netlify.app/)  |
 | Day 27  |       [Toasts Notification](https://github.com/ashrafemad097/30-Days-Of-HTML-CSS-JavaScript/tree/main/Day%2027%20-%20Toast%20Notification)       | [Live Demo](https://toast-notificatiion.netlify.app/)  |
 | Day 28  |       [GitHub Profile](https://github.com/ashrafemad097/30-Days-Of-HTML-CSS-JavaScript/tree/main/Day%2028%20-%20Github%20Profiles)       | [Live Demo](https://github-profiile.netlify.app/)  |
+| Day 29  |       [Double Heart Click](https://github.com/ashrafemad097/30-Days-Of-HTML-CSS-JavaScript/tree/main/Day%2029%20-%20Double%20Heart%20Click)       | [Live Demo](https://double-heart-clicked.netlify.app/)  |
