@@ -33,3 +33,4 @@
 | Day 27  |       [Toasts Notification](https://github.com/ashrafemad097/30-Days-Of-HTML-CSS-JavaScript/tree/main/Day%2027%20-%20Toast%20Notification)       | [Live Demo](https://toast-notificatiion.netlify.app/)  |
 | Day 28  |       [GitHub Profile](https://github.com/ashrafemad097/30-Days-Of-HTML-CSS-JavaScript/tree/main/Day%2028%20-%20Github%20Profiles)       | [Live Demo](https://github-profiile.netlify.app/)  |
 | Day 29  |       [Double Heart Click](https://github.com/ashrafemad097/30-Days-Of-HTML-CSS-JavaScript/tree/main/Day%2029%20-%20Double%20Heart%20Click)       | [Live Demo](https://double-heart-clicked.netlify.app/)  |
+| Day 30  |       [Auto Text Effect](https://github.com/ashrafemad097/30-Days-Of-HTML-CSS-JavaScript/tree/main/Day%2030%20-%20Auto%20Text%20Effect)       | [Live Demo](https://auto-text-effeect.netlify.app/)  |
